@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shapes/1831908.png</file>
+        <file>shapes/1959717.png</file>
+        <file>shapes/2661282.png</file>
+        <file>shapes/circle-outline-xxl.png</file>
+        <file>shapes/download (4).jfif</file>
+        <file>shapes/download (5).jfif</file>
+        <file>shapes/download (10).jpg</file>
+        <file>shapes/line-2-xxl.png</file>
+        <file>shapes/pencil.png</file>
+        <file>shapes/square-outline-xxl.png</file>
+    </qresource>
+</RCC>
